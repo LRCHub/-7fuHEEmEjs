@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Never Have I Felt This",
+  "base_artist": "Koven",
+  "createdAt": "2026-03-13T13:35:51.362974Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Have I Felt This",
+      "artist": "Koven",
+      "has_synced": true,
+      "path": "select/01_Never_Have_I_Felt_This_Koven.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Have I Felt This",
+      "artist": "Koven",
+      "has_synced": true,
+      "path": "select/02_Never_Have_I_Felt_This_Koven.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "never have i felt this [ncs release]",
+      "artist": "koven",
+      "has_synced": true,
+      "path": "select/03_never_have_i_felt_this_[ncs_release]_koven.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Have I Felt This",
+      "artist": "Koven",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Have_I_Felt_This_Koven.txt"
+    }
+  ]
+}
